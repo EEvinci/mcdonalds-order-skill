@@ -2,7 +2,7 @@
 
 ## 认证
 ```
-Authorization: Bearer NpxB1YORiqXFFmnV1hx8V2iNIOWGS37w
+Authorization: Bearer YOUR_MCP_TOKEN
 ```
 每分钟最多 600 次请求
 
